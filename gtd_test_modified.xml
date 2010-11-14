@@ -1,0 +1,54 @@
+<life>
+	<name></name>
+	<thoughts>
+	</thoughts>
+	<goal>
+		<id>1</id>
+		<name>first_goal</name>
+		<projects>
+			<project>
+				<id>1</id>
+				<name>first project</name>
+				<priority>9</priority>
+				<actions>
+					<action>
+						<id>1</id>
+						<name>do this first</name>
+						<context>do it here</context>
+						<duration>5</duration>
+						<startDate>6th Jan 2011</startDate>
+						<dueDate>7th Jan 2011</dueDate>
+						<projectPlannerData projectPlanner="SimpleProjectPlanner" colour="blue"/>
+					</action>
+					<action>
+						<id>2</id>
+						<name>do this 2nd</name>
+						<context>do it here</context>
+						<duration>5</duration>
+						<startDate>6th Jan 2011</startDate>
+						<dueDate>7th Jan 2011</dueDate>
+						<projectPlannerData projectPlanner="SimpleProjectPlanner" colour="blue"/>
+					</action>
+					<action>
+						<id>3</id>
+						<name>do this 3rd</name>
+						<context>do it here</context>
+						<duration>5</duration>
+						<startDate>8th Jan 2011</startDate>
+						<dueDate>9th Jan 2011</dueDate>
+						<projectPlannerData projectPlanner="SimpleProjectPlanner" colour="blue"/>
+					</action>
+					<action>
+						<id>5</id>
+						<name>do 5th and do it well</name>
+						<context>somewhere here</context>
+						<duration>40</duration>
+						<startDate>null</startDate>
+						<dueDate>null</dueDate>
+						<projectPlannerData projectPlanner="SimpleProjectPlanner" colour="blue"/>
+					</action>
+				</actions>
+			</project>
+		</projects>
+	</goal>
+</life>
